@@ -10,9 +10,11 @@ import Tooltip from 'react-bootstrap/Tooltip';
 import { withTranslation } from 'react-i18next';
 
 import {
-	ITINERARY_ITEM,
-	ITINERARY_LINES,
-	ITINERARY_NEW_PAGE,
+    ITINERARY_ITEM,
+    ITINERARY_HEADING,
+    ITINERARY_CHECKBOXES,
+    ITINERARY_LINES,
+    ITINERARY_NEW_PAGE,
 } from 'configuration-form/itinerary';
 import { getJsonAttachment } from 'lib/attachments';
 import { convertConfigToCurrentVersion } from 'lib/config-compat';

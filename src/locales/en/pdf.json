@@ -1,11 +1,11 @@
 {
 	"calendar": {
 		"header": {
-			"week-number": "W#",
-			"retrospective": "Re"
+			"week-number": "",
+			"retrospective": ""
 		},
 		"body": {
-			"retrospective": "R"
+			"retrospective": "D"
 		}
 	},
 	"page": {
@@ -18,7 +18,7 @@
 			"title": "Week"
 		},
 		"retrospective": {
-			"title": "Retrospective for week"
+			"title": "Brain dump"
 		},
 		"last": {
 			"title": "Generated using <recalendar>https://recalendar.me/</recalendar>",

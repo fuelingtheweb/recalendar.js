@@ -5,7 +5,7 @@ export function pageStyle( { alwaysOnSidebar, isLeftHanded } ) {
 		height: '100%',
 		flexGrow: 1,
 		flexDirection: 'column',
-		paddingLeft: alwaysOnSidebar && ! isLeftHanded ? 31 : 0,
+		paddingLeft: alwaysOnSidebar && ! isLeftHanded ? 39 : 0,
 		paddingRight: alwaysOnSidebar && isLeftHanded ? 31 : 0,
 	};
 }
