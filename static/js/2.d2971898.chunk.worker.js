@@ -1,0 +1,2 @@
+self.webpackChunk([2],{714:function(e){e.exports=JSON.parse('{"calendar":{"header":{"week-number":"U#","retrospective":"TB"},"body":{"retrospective":"T"}},"page":{"month":{"habits":{"title":"Vaner"}},"week":{"title":"Uge"},"retrospective":{"title":"Tilbageblik for ugen"},"last":{"title":"Genereret ved hj\xe6lp af <recalendar>https://recalendar.me/</recalendar>","subtitle":"Du kan indl\xe6se denne PDF igen for at f\xe5 samme konfiguration hvis du \xf8nsker hurtigt at generere en lignende kalender for det nye \xe5r!"}}}')}});
+//# sourceMappingURL=2.d2971898.chunk.worker.js.map

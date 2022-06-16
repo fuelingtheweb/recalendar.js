@@ -1,0 +1,2 @@
+self.webpackChunk([9],{721:function(e){e.exports=JSON.parse('{"habits":{"example1":"Trening","example2":"Bok","example3":"Hobby","example4":"Stevnem\xf8te"}}')}});
+//# sourceMappingURL=9.c2f886fa.chunk.worker.js.map

@@ -1,0 +1,2 @@
+((self||this)["webpackJsonprecalendar.js"]=(self||this)["webpackJsonprecalendar.js"]||[]).push([[7],{331:function(e){e.exports=JSON.parse('{"habits":{"example1":"Ejercicios","example2":"Libro","example3":"Afici\xf3n","example4":"Noche de cita"}}')}}]);
+//# sourceMappingURL=7.faf04d19.chunk.js.map
